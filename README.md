@@ -4,7 +4,7 @@
 
 
 ## 1. Pre-configurations:
-*You should have an OS installed in your system. In that OS you should have to install **Docker** 
+*You should have an OS installed in your system. In that OS you should have to install **Docker** * 
 *Here I am using **RedHat Enterprise Linux OS** and I have installed **Docker Community Edition** in it.*
 
 
@@ -105,7 +105,7 @@
 
 ## 9. Docker-compose down:
   * *You can easily stop the containers using command* `docker compose down` 
-![Docker-compose-down]!(https://user-images.githubusercontent.com/62848573/80745232-9b1f3100-8b3d-11ea-8cb9-9fb3d43f9fc7.png)
+![Docker-compose-down](https://user-images.githubusercontent.com/62848573/80745232-9b1f3100-8b3d-11ea-8cb9-9fb3d43f9fc7.png)
 
 
 
