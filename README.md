@@ -51,6 +51,7 @@
 
 * *You can see your database is created or not by using the client software known as* **MySQL Client Software**
   `yum install mysql`
+![mysql-setup](https://user-images.githubusercontent.com/62848573/80829589-11d33180-8c05-11ea-84e3-6d007702f26d.png)
 
 
 ## 5. Docker-Compose:
