@@ -4,7 +4,7 @@
 
 
 ## 1. Pre-configurations:
-*You should have an OS installed in your system. In that OS you should have to install **Docker** * 
+* You should have an OS installed in your system. In that OS you should have to install **Docker** * 
 *Here I am using **RedHat Enterprise Linux OS** and I have installed **Docker Community Edition** in it.*
 
 
@@ -85,7 +85,8 @@
 ## 6. Docker-compose up:
   * *For docker compose up, use command* `docker-compose up` *to complete the setup.*
   
-![Docker Compose Up](Process%20Screenshots/Docker-compose-up.png)
+![Docker-compose-up](https://user-images.githubusercontent.com/62848573/80828475-f36c3680-8c02-11ea-907c-13096cc83f5c.png)
+
 
 
 ## 7. Running Joomla WebApp:
@@ -94,14 +95,12 @@
 #### Note: 
   *If you want to use any other port then you have to mention it in your docker-compose file.*
   
-![Joomla Web Page](Process%20Screenshots/joomla-webpage.png)
-
+![joomla-webpage](https://user-images.githubusercontent.com/62848573/80828804-8ad18980-8c03-11ea-8576-de1ee58bbbef.png)
 
 ## 8. Docker-compose start stop:
    * *To stop docker-compose, use command* `docker-compose stop`. *To start docker-compose use command* `docker compose start`.
    
-![Docker-compose-start-stop](Process%20Screenshots/Docker-compose-start-stop.png)
-
+![Docker-compose-start-stop](https://user-images.githubusercontent.com/62848573/80828152-6628e200-8c02-11ea-8e63-c81df83f99eb.png)
 
 ## 9. Docker-compose down:
   * *You can easily stop the containers using command* `docker compose down` 
