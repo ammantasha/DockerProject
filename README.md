@@ -4,8 +4,8 @@
 
 
 ## 1. Pre-configurations:
-* You should have an OS installed in your system. In that OS you should have to install **Docker** * 
-*Here I am using **RedHat Enterprise Linux OS** and I have installed **Docker Community Edition** in it.*
+*You should have an OS installed in your system. In that OS you should have to install* **Docker**  
+*Here I am using* **RedHat Enterprise Linux OS** *and I have installed* **Docker Community Edition** *in it.*
 
 
 ## 2. Set-Up & Requirements:
