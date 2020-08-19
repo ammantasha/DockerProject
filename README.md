@@ -34,7 +34,7 @@
     
 ## 3. Downloading required images:
 
-#### Pulling MySQL Image:
+### Pulling MySQL Image:
   * *Use* `docker pull mysql:5.7` *to download the* **mysql version 5.7** *image to use as a database server.*
  
  
